@@ -28,3 +28,21 @@ header{
 	top: 40%;
 	left: 35%;
 }
+
+.col-12{
+	background-image: url("../img/atardecer.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 300px;
+	position: relative;
+}
+
+h1{
+	text-align: center;
+	color: pink;
+}
+
+button{
+	margin-left: 300px;
+}
